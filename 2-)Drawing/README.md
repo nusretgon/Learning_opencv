@@ -3,3 +3,6 @@
 
 **In my draw2.py code. I created rectangle.**
 ![draw2 1](https://user-images.githubusercontent.com/72438433/171600154-ac4e7508-fcfa-43e7-9865-af6a1e354f34.PNG)
+
+**If we change thickness -1 or cv.FILLED we get this output.**
+![draw2 2](https://user-images.githubusercontent.com/72438433/171600426-ee123bb9-90da-4fd3-82b2-0f58a434a4f4.PNG)
