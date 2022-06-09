@@ -8,3 +8,5 @@
 ![draw2 2](https://user-images.githubusercontent.com/72438433/171600426-ee123bb9-90da-4fd3-82b2-0f58a434a4f4.PNG)
 **In draw3 code we create circle and line.**
 ![draw3](https://user-images.githubusercontent.com/72438433/172861901-92654646-9e42-4ba6-8381-d8988172e1e0.PNG)
+**In draw4 code we write text**
+![draw4](https://user-images.githubusercontent.com/72438433/172862251-7d2b4ae1-59ba-42f6-9ae1-3bb0a52cf6f1.PNG)
